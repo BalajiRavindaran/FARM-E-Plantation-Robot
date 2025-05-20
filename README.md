@@ -1,9 +1,12 @@
-# FARM-E-Plantation-Robot
-The robot does basic plantation (Ploughing, Sowing, Watering &amp; Enclosing) functions when placed on a field in a regular interval of time and also updates information like temperature &amp; humidity
+## FARM-E-Autonomous-Plantation-Robot
 
-The robot was programmed using Arduino IDE.
-Arduino UNO & NodeMCU 1.2 were the boards used and were interfaced using Serial Communication. A funnel & water tank was 3D printed to fit the needs. All the components were placed in a custom made metal chasis and was mobilised using 200 RPM DC Geared Motors.
-
-The robot can either be automated or controlled manually through an app created using MIT App Inventor. The temperature and humidity readings are also displayed on the app.
-
-When compared to an average plantation machine, this robot performs a variety of tasks on one go.
+<ul>
+  <li>Developed an autonomous plantation robot capable of ploughing, sowing, watering, and enclosing crops in a single operation.</li>
+  <li>Programmed using Arduino IDE with Arduino UNO and NodeMCU 1.2 microcontrollers, interfaced via Serial Communication.</li>
+  <li>Integrated temperature and humidity sensors to monitor environmental conditions and relay real-time data to a mobile app.</li>
+  <li>Designed and 3D printed custom parts including a funnel and water tank for efficient planting and irrigation.</li>
+  <li>Built a mobile application using MIT App Inventor for manual control and live sensor data display.</li>
+  <li>Used a custom metal chassis and 200 RPM DC geared motors for mobility and durability in field environments.</li>
+  <li>Offered dual-mode functionality — fully automated or manual control via mobile app.</li>
+</ul>
+    
